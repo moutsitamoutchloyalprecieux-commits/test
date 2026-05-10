@@ -1,2 +1,2 @@
 # test
-#This repository is for my Git project.
+This repository is for my Git project.
